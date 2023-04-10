@@ -89,7 +89,7 @@
     - 13.2 React Router
     - 13.3 React Router의 기능과 패턴
     - 13.4 Backbone을 이용한 라우팅
-      <br/> =>
+      <br/> => ch13 (23.04.10)
   - 14장 Redux를 이용한 데이터 다루기
     - 14.1 React의 단방향 데이터 흐름 지원
     - 14.2 Flux 데이터 아키텍처의 이해
